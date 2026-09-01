@@ -110,10 +110,6 @@ const alishba = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alishbaansar560&show_icons=true&theme=nord&border_color=800000&title_color=800000&text_color=c9d1d9&icon_color=800000&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishbaansar560&layout=compact&theme=nord&border_color=800000&title_color=800000&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
-
 <img src="https://streak-stats.demolab.com?user=alishbaansar560&theme=nord&border=800000&ring=800000&fire=800000&currStreakLabel=800000" alt="GitHub Streak"/>
 
 </div>
