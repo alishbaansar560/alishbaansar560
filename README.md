@@ -88,7 +88,7 @@ const alishba = {
 
 **Languages**
 ![Languages](https://skillicons.dev/icons?i=cs,cpp)
-![C#](https://skillicons.dev/icons?i=cs)
+
 
 **Backend / Infra**
 
