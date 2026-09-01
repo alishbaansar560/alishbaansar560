@@ -87,10 +87,13 @@ const alishba = {
 ## 🛠️ Tech Stack
 
 **Languages**
+
+
 ![Languages](https://skillicons.dev/icons?i=cs,cpp)
 
 
 **Backend / Infra**
+
 
 ![.NET MAUI](https://skillicons.dev/icons?i=dotnet)
 
