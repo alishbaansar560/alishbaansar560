@@ -97,7 +97,7 @@ const alishba = {
 
 ![.NET MAUI](https://skillicons.dev/icons?i=dotnet)
 
-![SQL Server](https://skillicons.dev/icons?i=mssql)
+
 
 **Dev Tools**
 
